@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Syedhuzefali/My-portfolio.git/static/css/main.c31fb9a7.css",
-    "main.js": "/Syedhuzefali/My-portfolio.git/static/js/main.ce666b41.js",
-    "static/js/453.1407b060.chunk.js": "/Syedhuzefali/My-portfolio.git/static/js/453.1407b060.chunk.js",
-    "static/media/guess the number image.png": "/Syedhuzefali/My-portfolio.git/static/media/guess the number image.5d0fccc04ff0eb948813.png",
-    "static/media/bootstrap-icons.woff?": "/Syedhuzefali/My-portfolio.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/Syedhuzefali/My-portfolio.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/aditya image.jpg": "/Syedhuzefali/My-portfolio.git/static/media/aditya image.f1bd3f9be99586a32205.jpg",
-    "static/media/My image.jpg": "/Syedhuzefali/My-portfolio.git/static/media/My image.76c833b154317731526f.jpg",
-    "static/media/krishna image.jpg": "/Syedhuzefali/My-portfolio.git/static/media/krishna image.6e4960c4ec04d969523e.jpg",
-    "static/media/ludo image.webp": "/Syedhuzefali/My-portfolio.git/static/media/ludo image.0def29bc6e6feb682b95.webp",
-    "static/media/star rating image.png": "/Syedhuzefali/My-portfolio.git/static/media/star rating image.88d98d6b05efab43be72.png",
-    "static/media/tip calc image.webp": "/Syedhuzefali/My-portfolio.git/static/media/tip calc image.8ec65a862839feea816e.webp",
-    "index.html": "/Syedhuzefali/My-portfolio.git/index.html",
-    "main.c31fb9a7.css.map": "/Syedhuzefali/My-portfolio.git/static/css/main.c31fb9a7.css.map",
-    "main.ce666b41.js.map": "/Syedhuzefali/My-portfolio.git/static/js/main.ce666b41.js.map",
-    "453.1407b060.chunk.js.map": "/Syedhuzefali/My-portfolio.git/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/My-portfolio/static/css/main.707570dd.css",
+    "main.js": "/My-portfolio/static/js/main.a94db18c.js",
+    "static/js/453.1407b060.chunk.js": "/My-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/guess the number image.png": "/My-portfolio/static/media/guess the number image.5d0fccc04ff0eb948813.png",
+    "static/media/bootstrap-icons.woff?": "/My-portfolio/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/My-portfolio/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/aditya image.jpg": "/My-portfolio/static/media/aditya image.f1bd3f9be99586a32205.jpg",
+    "static/media/My image.jpg": "/My-portfolio/static/media/My image.76c833b154317731526f.jpg",
+    "static/media/krishna image.jpg": "/My-portfolio/static/media/krishna image.6e4960c4ec04d969523e.jpg",
+    "static/media/ludo image.webp": "/My-portfolio/static/media/ludo image.0def29bc6e6feb682b95.webp",
+    "static/media/star rating image.png": "/My-portfolio/static/media/star rating image.88d98d6b05efab43be72.png",
+    "static/media/tip calc image.webp": "/My-portfolio/static/media/tip calc image.8ec65a862839feea816e.webp",
+    "index.html": "/My-portfolio/index.html",
+    "main.707570dd.css.map": "/My-portfolio/static/css/main.707570dd.css.map",
+    "main.a94db18c.js.map": "/My-portfolio/static/js/main.a94db18c.js.map",
+    "453.1407b060.chunk.js.map": "/My-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c31fb9a7.css",
-    "static/js/main.ce666b41.js"
+    "static/css/main.707570dd.css",
+    "static/js/main.a94db18c.js"
   ]
 }
