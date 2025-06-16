@@ -1,5 +1,6 @@
 import React from 'react'
 import "../css/Contact.css";
+import { Link } from 'react-router-dom';
 const Contact = () => {
     return(
      <body>
@@ -26,7 +27,9 @@ const Contact = () => {
       <span><a href="https://www.facebook.com/syedhuzef.ali/"><i class="bi bi-facebook" id="facebook"></i>Facebook</a></span>
       <h1>Youtube</h1>
       <span><a href="https://www.youtube.com/@syedhuzefali378/" id="youtube"><i class="bi bi-youtube"></i>Youtube</a></span>
-      <a href="http://localhost:3000/"><button class="return-btn">return back</button></a>  
+       <Link to="/">
+        <button className="return-btn">Return Back</button>
+      </Link> 
       </div>
      </body>
     );
