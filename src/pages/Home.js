@@ -1,6 +1,7 @@
 import React from 'react'
 import "../css/Home.css";
 import Myimage from "../Images/My image.jpg";
+import { Link } from "react-router-dom";
 const Home = () => {
     return(
       <body> 
@@ -14,7 +15,9 @@ const Home = () => {
     <img src={Myimage} alt="" class="myimage"></img> 
     <p>Let’s build something amazing together! Check out my portfolio below or drop me a message—I'd love to hear from you.</p>
     <br />
-    <a href="http://localhost:3000/Contact"><button id="contact-btn">Contact Me</button></a>
+    <Link to="/contact">
+  <button id="contact-btn">Contact Me</button>
+    </Link>
     
     
     </div>
